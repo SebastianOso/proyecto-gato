@@ -1,8 +1,7 @@
-# proyecto-pci "Calculadora"
+## proyecto-pci "Gato"
 
 CONTEXTO
 
-Para esta calculadora lo que quiero llegar a hacer es obviamente una calculadora, pero me gustaria incluir más funciones a la calculadora no simplemente las funciones normale de la calculadora como es la suma o resta multiplicacion sino hacer funciones como sacar el area de diferentes figuras, al igual que sacar le volumen y cosasa así
-
+Para este proyecto de la materia me gustaria hacer el juego del gato(tic-tac-toe), ya que pienso que es lo demasiado complicado como para incluir todo el temario de la clase y tampoco demasiado sencillo y pienso que sería un buen reto 
 
 
