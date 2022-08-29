@@ -1,5 +1,7 @@
 ## proyecto-pci "Gato"
 
+Sebastián Osorio Arteaga A01706119
+
 CONTEXTO
 
 Para este proyecto de la materia me gustaria hacer el juego del gato(tic-tac-toe), ya que pienso que es lo demasiado complicado como para incluir todo el temario a tratar de la clase como es el tema de las funciones, operadores lógicos, funciones, etc. y pienso que tampoco es demasiado sencillo, además de que en las anteriores tarea de la preparatoria nunca se nos planteo un proyecto como un juego o algo parecido, y solo haciamos tareas como cuestionarios o cosas sencillaas,por lo que en mi opinion sería un buen reto 
