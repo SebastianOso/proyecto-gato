@@ -70,12 +70,6 @@ def ganador_ver(): #ganador vertical
     return ganador
 
 
-#def empate():
-    #global ganador
-    #if casilla[0] != casilla[1] !=casilla[2] != casilla[3] != casilla[4] != casilla[5] != casilla[6] != casilla[7] !=casilla[8]:
-        #ganador=None
-        #jugando=False
-
 
 def ganador_diag(): #ganador en diagonal
     global ganador
