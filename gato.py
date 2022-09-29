@@ -25,17 +25,15 @@ def TableroInicial(): #funcion para imprimir el tablero y va cambiando con el in
     print("-----")
     print(casilla[6] + "|" + casilla[7] + "|" + casilla[8])
 
-
+""""
 def EscogerCasilla(): #funcion para escoger casilla
     EC=input("Escoge un número del 1 al 9 para escoger tu casilla: \n")
     EC_int=int(float(EC)) #innecesario el int(float()) pero no ejecutaba
     if EC_int >= 1 and EC_int <= 9 and casilla[EC_int-1] == "-": #Ec= escoger casilla
         casilla[EC_int-1]=jugador
-    elif EC_int == " ":
-        print("no pusiste un numero vuelve a intentarlo")
     else:
         print("¡parece que es casilla esta ocupada!")
-        input()
+"""        
 
 
 def cambiar_jugador():
@@ -81,7 +79,14 @@ def ganador_diag(): #ganador en diagonal
 while jugando:
     os.system("cls")
     TableroInicial()
-    EscogerCasilla()
+    EC=input("Escoge un número del 1 al 9 para escoger tu casilla: \n")
+    EC_int=int(float(EC)) #innecesario el int(float()) pero no ejecutaba
+    if EC_int >= 1 and EC_int <= 9 and casilla[EC_int-1] == "-": #Ec= escoger casilla
+        casilla[EC_int-1]=jugador
+    else:
+        print("¡parece que es casilla esta ocupada!")
+        input()
+        continue
     ganador_diag()
     ganador_hor()
     ganador_ver()
