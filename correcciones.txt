@@ -1,0 +1,19 @@
+
+Correciones que se hicieron:
+
+-Avance 2: agregar operaciones con operadores (ya se usaron más operadores)
+
+En cuanto a los demás avances realidad no se hicieron ninguna correción solo que 
+no entregue el link en canvas pero si en github ye n la hoja de calificaciones de google sheets sale como 0
+
+Por lo que las "correciones" que se hicieron fueron:
+
+-Avance 3: Incorpora a tu proyecto libre uso de funciones 
+-Avance 4: Incorpora a tu proyecto libre estructuras de decisión
+-Avance 6: Incorpora a tu proyecto libre listas (arreglos)
+
+también en el Avance 6: Incorpora a tu proyecto libre listas (arreglos) en la hoja de mis calificaciones
+en google sheets me aparece como no entregado pero si lo entregué, pero lo pongo ahí por si acaso
+
+ 
+
