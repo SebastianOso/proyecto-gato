@@ -1,19 +1,51 @@
 
-Correciones que se hicieron:
+Sub-Competencia: Interpretación: Aplicación de técnicas de programación  (avance 6 y 7)
 
--Avance 2: agregar operaciones con operadores (ya se usaron más operadores)
+Error original: No hay error, subí los 2 avances en canvas pero aparece como 0 estos avances en el excel de las calificaciones
 
-En cuanto a los demás avances realidad no se hicieron ninguna correción solo que 
-no entregue el link en canvas pero si en github ye n la hoja de calificaciones de google sheets sale como 0
+Cambio realizado: No hubo cambio es simplemente para que me cambie la calificación, porque me aparece como "No hay entrega" pero si lo entregue
 
-Por lo que las "correciones" que se hicieron fueron:
+Líneas de código donde se ve la corrección:
 
--Avance 3: Incorpora a tu proyecto libre uso de funciones 
--Avance 4: Incorpora a tu proyecto libre estructuras de decisión
--Avance 6: Incorpora a tu proyecto libre listas (arreglos)
+4-9
+30-40
+49-59
+68-74
+97-109
+114-133
+158-166
+176-188
 
-también en el Avance 6: Incorpora a tu proyecto libre listas (arreglos) en la hoja de mis calificaciones
-en google sheets me aparece como no entregado pero si lo entregué, pero lo pongo ahí por si acaso
+===========================================================================================================
 
- 
+Sub-Competencia: Interpretación: Aplicación de técnicas de programación  (avance 4)
+
+Error original: no subí el link en canvas para el avance 4 
+
+Cambio realizado: En realidad no hubo cambio, ya estaba en github pero me olvide subir en link en canvas
+
+Líneas de código donde se ve la corrección:
+
+16-22
+30-40
+49-59
+68-74
+81-86
+120-133
+158-166
+176-188
+
+===========================================================================================================
+
+
+Sub-Competencia: Interpretación: Aplicación de buenas prácticas de programación  (avance 3)
+
+Error original: no subí el link en canvas para el avance 3
+
+Cambio realizado: En realidad no hubo cambio, ya estaba en github pero me olvide subir en link en canvas
+
+Líneas de código donde se ve la corrección:	
+
+4-86
+149-189
 
