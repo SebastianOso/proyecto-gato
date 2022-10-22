@@ -35,7 +35,7 @@ turno = int(input("que casilla del tablero escoges usa numeros del 1-9"))
 
 COMO FUNCIONA:
 
-Es muy simple te descargas el código "gato_final" y corres el código, te pide nombre y edad para saber quien es el jugador (x) y el jugador(o)
+Es muy simple te descargas el código "gato_final.py" y corres el código, te pide nombre y edad para saber quien es el jugador (x) y el jugador(o)
 después para escoger la casilla lo haces en base que el tablero de 3x3, la primera casilla
 arriba a la izquierda es la posición 1 y la ultima casilla abajo a la derecha es la posición 9. 
 Y gana quien quien pueda alinear 3 simbolos (x,o) :^)
